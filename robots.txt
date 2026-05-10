@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://walhalax.github.io/handbook-0q31ja/sitemap.xml
